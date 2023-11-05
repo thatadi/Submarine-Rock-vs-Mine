@@ -1,5 +1,5 @@
 # Submarine-Rock-vs-Mine
-# Project Title
+
 
 ## Overview
 In this project, we embarked on a comprehensive exploration of various classification methods, with a primary focus on assessing and comparing their accuracy and precision. The objective was to gain insights into the performance of these methods in solving classification problems and to identify their relative strengths and weaknesses. The methods under scrutiny encompassed a diverse array of approaches, including XGBoost, Logistic Regression, Neural Network Classification,Random forests and Histogram-Based Classification.
