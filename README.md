@@ -18,6 +18,8 @@ List the different classification methods you have employed in your project, suc
 - Random Forest
 - Neural Network Classification
 - Histogram-Based Classification
+- Decision Tree with Randomized Search CV
+- Logistic regression with Grid Search CV
 
 ## Data
 
